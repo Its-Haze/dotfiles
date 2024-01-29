@@ -1,0 +1,5 @@
+plugins = [
+    # Install the plugins from github
+    "Duckonaut/split-monitor-workspaces",
+]
+
