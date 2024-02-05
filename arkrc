@@ -1,0 +1,12 @@
+[ExtractDialog]
+3 screens: Window-Maximized=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+3 screens: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACDAAACMPwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAoAAACMAAAAF4A///+AAADLAAAAjAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
